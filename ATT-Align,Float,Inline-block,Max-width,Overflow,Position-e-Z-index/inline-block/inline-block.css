@@ -1,0 +1,52 @@
+span.a {
+    display: inline;
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+span.b {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+div.b {
+    display: inline;
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+img.a {
+    display: inline;
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+}
+
+span.c {
+    display: block;
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+
+span.d {
+    display: inline-flexbox;
+    width: 200px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}

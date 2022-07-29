@@ -1,0 +1,67 @@
+p {
+    color: rgb(224, 237, 231); 
+    background-color: red;
+}
+h1 {
+    color: Red; 
+    background-color: blue; 
+    font-family: Verdana;
+}*/
+.p1 { /*estilização do parágrafo 1*/
+    color: green; 
+    background-color: black; 
+    font-family: Verdana;
+}
+.p3 { /*estilização do parágrafo 3*/
+    color: brown; 
+    background-color: aqua; 
+    font-family: Verdana;
+}
+#p2 { /*estilização do parágrafo 2*/
+    color: purple; 
+    background-color: pink; 
+    font-family: Verdana;
+    text-align: right;
+}
+.btn { /*estilização do botão*/
+    margin-left: 50%;
+    margin-top: 20px;
+    color: brown;
+    background-color: rgb(198, 129, 129);
+    border-color: brown;
+    font-size: large;
+    font-style: italic;
+}
+body {
+    background-image: url("https://m.media-amazon.com/images/I/619QaGrReCL._AC_SY450_.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: scroll;
+}
+p.dotted {
+    border-style: dotted;
+}
+p.dashed {
+    border-style: dashed;
+}
+p.double {
+    border-style: double;
+}
+p.ridge {
+    border-style: ridge;
+}
+p.normal-weight {
+    font-weight: lighter;
+}
+@font-face {
+    font-family: fascinate;
+    src: url("/fonts/Fascinate-Regular.ttf");
+}
+#div-box {
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px 75px 60px 40px;
+    margin: 20px;
+}

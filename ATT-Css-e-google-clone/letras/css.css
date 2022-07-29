@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
+
+* {
+    font-size: 20px;
+}
+
+body {
+    width: 300vw;
+    height: 100vh;
+    /* overflow: hidden; */
+    font-size: 50px;
+}
+
+.nome {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 4rem;
+}
+
+.newnome {
+    font-family: 'Roboto Slab', serif;
+    font-size: 3em;
+}
+
+h1.newnome {
+    font-size: 200px;
+    font-weight: 700;
+}

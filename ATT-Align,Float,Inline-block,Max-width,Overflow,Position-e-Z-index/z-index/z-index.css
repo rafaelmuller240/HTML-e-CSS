@@ -1,0 +1,34 @@
+div.div-black {
+  position: relative;
+  background-color: gray;
+    z-index: 1;
+    border: 2px solid black;
+    height: 120px;
+    margin: 130px;
+}
+
+div.div-grey {
+    position: absolute;
+    background-color: aquamarine;
+    z-index: 3;
+    border: 2px solid grey;
+    height: 50px;
+    width: 70%;
+    left: 50px;
+    top: 50px;
+}
+
+div.div-green {
+    position: absolute;
+    background-color: brown;
+    z-index: 2;
+    border: 2px solid greenyellow;
+    height: 120px;
+    width: 35%;
+    left: 250px;
+    top: -15px;
+}
+
+.container {
+    position: relative;
+}

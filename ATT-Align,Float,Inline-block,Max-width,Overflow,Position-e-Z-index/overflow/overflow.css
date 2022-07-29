@@ -1,0 +1,42 @@
+div.overflow-visible {
+    background-color: aquamarine;
+    width: 200px;
+    height: 60px;
+    resize: both;
+    border: 4px solid;
+    overflow: visible;
+}
+
+div.overflow-hidden {
+    background-color: aqua;
+    width: 200px;
+    height: 60px;
+    border: 4px solid;
+    overflow: hidden;
+}
+
+div.overflow-scroll {
+    background-color: blueviolet;
+    width: 200px;
+    height: 60px;
+    border: 4px solid;
+    overflow: scroll;
+}
+
+div.overflow-auto {
+    background-color: cadetblue;
+    width: 200px;
+    height: 60px;
+    border: 4px solid;
+    overflow: auto;
+}
+
+div.overflow-visible-img {
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 60px;
+    resize: both;
+    border: 4px solid;
+    overflow: scroll;
+}
+

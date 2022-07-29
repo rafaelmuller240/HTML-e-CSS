@@ -1,0 +1,27 @@
+div.static {
+    position: static;
+    border: 3px solid red;
+}
+
+div.relative {
+    position: relative;
+    left: 40px;
+    border: 3px solid blue;
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 450px;
+    border: 3px solid gray;
+}
+
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 8px;
+    background-color: cadetblue;
+    border: ;
+}

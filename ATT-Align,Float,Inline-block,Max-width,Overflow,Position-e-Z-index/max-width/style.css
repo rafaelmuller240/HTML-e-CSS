@@ -1,0 +1,11 @@
+div.exemplo-width {
+    width: 400px;
+    margin: auto;
+    border: 3px solid blueviolet;
+}
+
+div.exemplo-maxwidth {
+    width: 400px;
+    margin: auto;
+    border: 3px solid blueviolet;
+}
